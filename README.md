@@ -1,0 +1,2 @@
+# MyMind
+Qt Study
